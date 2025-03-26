@@ -1,21 +1,31 @@
-MIT License
+Personal License for PassLock
 
-Copyright (c) 2025 Samuel
+Copyright (C) 2025 SamuDev
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license governs the use of the source code and associated files of the PassLock project ("the Software"). By using the Software, you agree to be bound by the following terms and conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Permitted Use:
+   The Software may only be used for the sole purpose of contributing to and further developing the PassLock project. Any other use of the Software, including but not limited to commercial, private, or derivative applications not directly tied to the original project, is strictly prohibited.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Contribution Requirement:
+   Any person or entity using the Software must actively contribute to the development of the PassLock project. Contributions may include but are not limited to:
+   - Submitting code enhancements or bug fixes through the project's repository.
+   - Providing constructive feedback or suggestions for improvement.
+   - Testing new features and reporting issues.
+
+3. Prohibition of Redistribution:
+   Redistribution of the Software, in original or modified form, is strictly prohibited without prior written permission from the author. This includes but is not limited to publishing, sublicensing, or distributing the Software to third parties.
+
+4. Preservation of Copyright and Attribution:
+   All copies or modifications of the Software must retain the original copyright notice and include a clear attribution to the PassLock project and its original author(s). Removal or alteration of this attribution is prohibited.
+
+5. Unauthorized Use:
+   Any unauthorized use of the Software, including any usage that does not directly contribute to the PassLock project, is a violation of this license and may result in legal consequences.
+
+6. Disclaimer of Warranty:
+   The Software is provided "as is" without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability or fitness for a particular purpose. The author shall not be held liable for any damages arising from the use of the Software.
+
+7. Modification of the License:
+   The terms of this license may only be modified by the original author. Any such modifications will be communicated through the official project repository.
+
+By using the Software, you acknowledge that you have read, understood, and agreed to abide by these terms.
