@@ -78,5 +78,5 @@ PassLock was built with passion and dedication to protecting your digital life. 
 
 ---
 
-[![Follow Us on GitHub](https://img.shields.io/github/followers/[YourUsername]?label=Follow%20Us%20on%20GitHub&style=social)](https://github.com/[YourUsername])  
-[![Star This Project](https://img.shields.io/github/stars/[YourUsername]/PassLock?style=social)](https://github.com/[YourUsername]/PassLock/stargazers)
+[![Follow Us on GitHub](https://img.shields.io/github/followers/samueltv1804?label=Follow%20Us%20on%20GitHub&style=social)](https://github.com/samueltv1804)  
+[![Star This Project](https://img.shields.io/github/stars/samueltv1804/PassLock?style=social)](https://github.com/samueltv1804/PassLock/stargazers)
