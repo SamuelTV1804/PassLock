@@ -19,13 +19,13 @@ PassLock is your ultimate companion for managing passwords securely and efficien
 Get started with PassLock in just a few steps:
 
 1. Clone the repository:
-   git clone https://github.com/[YourUsername]/PassLock.git
+   ``git clone https://github.com/[YourUsername]/PassLock.git``
 2. Navigate to the project directory:
-   cd PassLock
+   ``cd PassLock``
 3. Install dependencies:
-   [Insert installation command here]
+   ``[Insert installation command here]``
 4. Run the application:
-   [Insert run command here]
+   ``[Insert run command here]``
 
 ---
 
