@@ -20,13 +20,10 @@ Get started with PassLock in just a few steps:
 
 1. Clone the repository:
    git clone https://github.com/[YourUsername]/PassLock.git
-
 2. Navigate to the project directory:
    cd PassLock
-
 3. Install dependencies:
    [Insert installation command here]
-
 4. Run the application:
    [Insert run command here]
 
@@ -49,13 +46,10 @@ We love collaboration! 💡 Want to make PassLock even better? Follow these step
 1. Fork the repository.  
 2. Create a new branch:
    git checkout -b feature/amazing-feature
-
 3. Commit your changes:
    git commit -m "Add some amazing-feature"
-
 4. Push to the branch:
    git push origin feature/amazing-feature
-
 5. Open a pull request 📤.  
 
 Feel free to contribute ideas, bug fixes, or new features! Let's build the future of password management together. 🚀
